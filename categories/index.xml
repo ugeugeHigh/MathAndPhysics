@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 数学と物理</title>
+    <link>https://github.com/ugeugeHigh/MathAndPhysics.git/categories/</link>
+    <description>Recent content in Categories on 数学と物理</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    
+	<atom:link href="https://github.com/ugeugeHigh/MathAndPhysics.git/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Math</title>
+      <link>https://github.com/ugeugeHigh/MathAndPhysics.git/categories/math/</link>
+      <pubDate>Thu, 21 Jun 2018 21:40:03 +0900</pubDate>
+      
+      <guid>https://github.com/ugeugeHigh/MathAndPhysics.git/categories/math/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
