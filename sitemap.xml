@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/ugeugeHigh/MathAndPhysics.git/post/work2/</loc>
+    <loc>https://ugeugehigh.github.io/MathAndPhysics/post/work2/</loc>
     <lastmod>2018-06-21T21:40:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/ugeugeHigh/MathAndPhysics.git/categories/</loc>
+    <loc>https://ugeugehigh.github.io/MathAndPhysics/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/ugeugeHigh/MathAndPhysics.git/categories/math/</loc>
-    <lastmod>2018-06-21T21:40:03+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/ugeugeHigh/MathAndPhysics.git/post/</loc>
+    <loc>https://ugeugehigh.github.io/MathAndPhysics/categories/math/</loc>
     <lastmod>2018-06-21T21:40:03+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/ugeugeHigh/MathAndPhysics.git/tags/</loc>
+    <loc>https://ugeugehigh.github.io/MathAndPhysics/post/</loc>
+    <lastmod>2018-06-21T21:40:03+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/ugeugeHigh/MathAndPhysics.git/</loc>
+    <loc>https://ugeugehigh.github.io/MathAndPhysics/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ugeugehigh.github.io/MathAndPhysics/</loc>
     <lastmod>2018-06-21T21:40:03+09:00</lastmod>
     <priority>0</priority>
   </url>
